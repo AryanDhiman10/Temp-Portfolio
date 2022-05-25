@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Aryan Dhiman",
+    "description":"I am a web developer and I use react to develop pages..",
+    "image":"profilepic.jpg",
+    "bio":"I'm a full-stack developer located in India. I love to create simple yet beautiful websites with great user experience and can operate both on front and back-end systems.",
+    "email": "dhimanaryan.01@gmail.com",
+    "phone": "+91-6397434068",
+    "github":"https://github.com/AryanDhiman10",
+    "address":{
+      "street":"Ch. Charan Singh Nagar, Basti",
+      "city":"Gajraula",
+      "state":"Uttar Pradesh",
+      "zip": "244235"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/AryanDhiman10/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/aryan.dhiman.05",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AryanDhiman10",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Indian Institute of Technology Roorkee",
+        "degree":"Bachelors in Electronics and Communication Engginering",
+        "graduated":"To be in 2024",
+        "description":"It has been a nice place so far. Most of the time it was online but the little time spent in college is worth a lot."
+      },
+      {
+        "school":"St. Mary's Convent School",
+        "degree":"Class 10th and 12th",
+        "graduated":"April 2019",
+        "description":"Till date, I have some of the best memories of my life which I got from there. Miss it a lot!"
+      }
+    ],
+    "work":[
+      {
+        "company":"Mata Sundri College for Women, University of Delhi",
+        "title":"TedxMSCW",
+        "years":"March 2022 - April 2022",
+        "description":"Build the whole frontend from Scratch for the website. Added pages for the information of the speakers and events to be held in that event. Implemented method to register and buy tickets for the event through the website."
+      },
+      {
+        "company":"Qizaa.com",
+        "title":"Qizaa",
+        "years":"May 2022",
+        "description":"Build the clone of the website in React and fixed the issues of previous website as a task given by their team."
+      }, 
+      {
+        "company":"Wordlle",
+        "title":"SyntaxError",
+        "years":"March 2022",
+        "description":"Made a game in which you get 7 chances to guess a 6 letter word. Each guess must be a valid word which is checked through an API. Everytime a new random 6 letter word is selected using an API. On each guess, user gets hint of the correct letter and its position."
+      },
+      {
+        "company":"YelpCamp",
+        "title":"Personal Project",
+        "years":"December 2021 - February 2022",
+        "description":"Made a site to search for campgrounds and to be able to review the sites. Logged in user can create a new campground and add new photos to it."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"Express",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"SASS",
+        "level":"80%"
+      },
+      {
+        "name":"EJS",
+        "level":"80%"
+      }
+    ]
+  }
+}
