@@ -13,4 +13,5 @@ Follow the steps to install it in your local machine:
 
 ## Video Demo
 
-https://user-images.githubusercontent.com/97045861/170383352-3b2cd217-2d6b-4b9d-8612-919a1fe930fc.mp4
+
+https://user-images.githubusercontent.com/97045861/170384001-9db11127-cf80-4010-bacb-c11e1601bca9.mp4
